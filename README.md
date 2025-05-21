@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center"><b>CS317.P21 - PHÁT TRIỂN VÀ VẬN HÀNH HỆ THỐNG MÁY HỌC</b></h1>
-<h2 align="center"><b>Lab 1 - Pipeline huấn luyện với experiment tracking</b></h2>
+<h2 align="center"><b>Lab 2 - Serving model qua API và đóng gói với docker</b></h2>
 
 ---
 
