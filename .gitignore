@@ -1,0 +1,14 @@
+# Python
+.venv/
+
+# Metaflow
+.metaflow/
+
+# MLflow
+mlartifacts/
+mlruns/
+metaflow_card_cache/
+
+# Database
+mlflow.db
+
