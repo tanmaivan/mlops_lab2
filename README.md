@@ -44,13 +44,6 @@ Dự án này là một ứng dụng MLOps, sử dụng Docker để đóng gói
 2. Sau khi các container đã chạy, bạn có thể truy cập:
     - API: http://localhost:8000
 
-## Demo
-
-[Chèn link demo tại đây]
-
-
-
-
 ## Cấu trúc dự án
 
 -   `src/`: Chứa mã nguồn của ứng dụng
