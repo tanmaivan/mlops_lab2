@@ -5,11 +5,6 @@
 Dự án này là một ứng dụng MLOps, sử dụng Docker để đóng gói và triển khai mô hình học máy. Dự án bao gồm các thành phần chính như API, MLflow để theo dõi thí nghiệm, và các mô hình được huấn luyện trên tập dữ liệu housing. Model được chọn từ model tốt nhất ở [Lab 1](https://github.com/tanmaivan/cs317). Sau build bằng Docker, image cũng đã được push lên Docker Hub (https://hub.docker.com/repository/docker/tanmaivan/housing-price-api/general)
 
 - Demo xem tại: https://www.youtube.com/watch?v=DLQXNl660y0&ab_channel=TanMai
-## Yêu cầu
-
--   Docker và Docker Compose
--   Git
--   Python 3.8+
 
 ## Cài đặt môi trường
 
