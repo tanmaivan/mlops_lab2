@@ -64,6 +64,3 @@ Dự án này là một ứng dụng MLOps, sử dụng Docker để đóng gói
 -   `Dockerfile`: Cấu hình để build Docker image
 -   `docker-compose.yml`: Cấu hình để chạy các container
 
-## Liên hệ
-
-Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ qua [email của bạn].
