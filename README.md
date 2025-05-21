@@ -1,4 +1,19 @@
-# MLOps Lab 2
+<p align="center">
+  <a href="https://www.uit.edu.vn/">
+    <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học CNTT" width="400">
+  </a>
+</p>
+
+<h1 align="center"><b>CS317.P21 - PHÁT TRIỂN VÀ VẬN HÀNH HỆ THỐNG MÁY HỌC</b></h1>
+<h2 align="center"><b>Lab 1 - Pipeline huấn luyện với experiment tracking</b></h2>
+
+---
+
+## Thông tin sinh viên
+- **Họ tên**: Mai Văn Tân
+- **MSSV**: 22521301
+
+---
 
 ## Giới thiệu
 
